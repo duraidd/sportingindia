@@ -5,7 +5,9 @@
 ### App Preview
 
 
-https://user-images.githubusercontent.com/76986631/149085752-8251fa84-97f3-49d4-b4b1-0cc8305f2fc9.mp4
+
+https://user-images.githubusercontent.com/76986631/149085873-5c18c04f-d90e-4a1e-b46a-0af93b842ebb.mp4
+
 
 
 ### App Screen Shot
